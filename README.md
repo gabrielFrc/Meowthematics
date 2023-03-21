@@ -27,3 +27,11 @@
    <p>Each rarity and item has a chance (%)</p>
   
  <image height="400cm" src="https://github.com/gabrielFrc/Meowthematics/blob/main/ImagesForGitHub/AchviementsScreen_1.gif">
+
+ ## There's more, but you can see it downloading the game, it's free.
+   <p>Menu, settings and credits screen with real cats being showed.</p>
+  
+ ## Download Game!
+  https://drive.google.com/file/d/1pU1-qP-58by1EPUzZP3f_K-55V33s3MR/view?usp=sharing
+  
+ <h4>Thanks for seeing this! I really appreciate <3</h4> 
