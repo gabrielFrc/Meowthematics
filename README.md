@@ -32,6 +32,11 @@
    <p>Menu, settings and credits screen with real cats being showed.</p>
   
  ## Download Game!
+  <h3>Controls:</h3>
+  <h4>Ctrl - Show problem</h4>
+  <h4>X - Change Problem</h4>
+  <h4>Z - Drop itens</h4>
+  <h4>Esc - Menu</h4>
   https://drive.google.com/file/d/1pU1-qP-58by1EPUzZP3f_K-55V33s3MR/view?usp=sharing
   
  <h4>Thanks for seeing this! I really appreciate <3</h4> 
